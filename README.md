@@ -57,20 +57,14 @@ I'm a **Full Stack Developer** passionate about building scalable applications, 
 
 ---
 
-## 💡 Soft Skills
-- **Self-learning**
-- **Presentation**
-- **Public Speaking**
-
----
-
 ## 🚀 My Projects
 
 Here are some of the projects I'm proud of:
 
 - *[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):* A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.  
-- **[Project Name 2](https://github.com/yourusername/project2)**: Another awesome project with a short description.
-- **[Project Name 3](https://github.com/yourusername/project3)**: A project that solves a real-world problem.
+- *[SmartHire](https://github.com/Mayank8881/SmartHire)*:  A resume shortlisting and interview preparation platform, utilizing machine learning for automated resume
+filtering.
+- *[MovieDB](https://github.com/Mayank8881/MovieDB)*: MovieDB is a dynamic and interactive web application designed to enhance the movie-watching experience for users. 
 
 ---
 
@@ -104,10 +98,8 @@ Here are some of the projects I'm proud of:
 
 I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
+- **Email**: mayankmokhere2527@gmail.com
+- **LinkedIn**: [Mayank Mokhere](https://linkedin.com/in/mayankmokhere)
 
 ---
 
