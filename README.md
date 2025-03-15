@@ -64,7 +64,8 @@ Here are some of the projects I'm proud of:
 - *[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):* A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.  
 - *[SmartHire](https://github.com/Mayank8881/SmartHire)*:  A resume shortlisting and interview preparation platform, utilizing machine learning for automated resume
 filtering.
-- *[MovieDB](https://github.com/Mayank8881/MovieDB)*: MovieDB is a dynamic and interactive web application designed to enhance the movie-watching experience for users. 
+
+- *[InvestyGram](https://github.com/Code4Both/InvestyGram)*: InvestyGram is a platform that connects startups with the right investors through real-time funding, transparent data, and AI-driven matching, streamlining the investment process.
 
 ---
 
