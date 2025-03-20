@@ -63,7 +63,7 @@ I'm a **Full Stack Developer** passionate about building scalable applications, 
 
 Here are some of the projects I'm proud of:
 
-- *[Certify-DAPP](https://github.com/Madhuj275/Certify-DAPP):* A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.  
+- *[Certify-DAPP](https://github.com/Mayank8881/Certify-Dapp):* A decentralized application for issuing and verifying certificates securely on the blockchain, ensuring transparency and tamper-proof documentation.  
 - *[SmartHire](https://github.com/Mayank8881/SmartHire)*:  A resume shortlisting and interview preparation platform, utilizing machine learning for automated resume
 filtering.
 
