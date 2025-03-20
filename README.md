@@ -3,7 +3,9 @@
 I'm a **Full Stack Developer** passionate about building scalable applications, solving real-world problems, and creating beautiful designs. I love working with technologies like **JavaScript**, **TypeScript**, **Node.js**, **React**, and **Next.js**, and I'm always striving to learn something new.
 
 ---
+[![An image of @mayank8881's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank8881)](https://holopin.io/@mayank8881)
 
+--
 ## 🛠️ Technologies & Tools
 
 ### Languages
